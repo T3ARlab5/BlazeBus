@@ -38,7 +38,8 @@ These are some of the planned features for the BlazeBus Toolheadboard:\
 - [ ] Publish "finished" design :tada:
 
 ## Schematic
-Preview of the schematic pages, more details can be viewed in the [PDF version](Schematic/BlazeBus_Schematic.PDF). Page 3 will be used for not assembled parts e.g. plugs and crimps.
+Preview of the schematic pages, more details can be viewed in the [PDF version](Schematic/BlazeBus_Schematic.PDF).\ 
+Page 3 will be used parts that are not directly assembled to the PCB e.g. plugs and crimps.
 ![Preview image of schematic page 1. Also available as PDF in subfolder.](https://github.com/T3ARlab5/BlazeBus/blob/main/Media/BlazeBus_Schematic-1-V1-1.jpg)
 ![Preview image of schematic page 2. Also available as PDF in subfolder.](https://github.com/T3ARlab5/BlazeBus/blob/main/Media/BlazeBus_Schematic-2-V1-1.jpg)
 ![Preview image of schematic page 3. Also available as PDF in subfolder.](https://github.com/T3ARlab5/BlazeBus/blob/main/Media/BlazeBus_Schematic-3-V1-1.jpg)
