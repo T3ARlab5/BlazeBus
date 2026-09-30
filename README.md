@@ -31,7 +31,7 @@ These are some of the planned features for the BlazeBus Toolheadboard:\
 
 ## To Do
 - [x] Publish initial V1-0 schematic
-- [ ] Get feedback and implement changes
+- [x] Get feedback and implement changes
 - [ ] Repeat until satisfied
 - [ ] Finalize BOM and layout
 - [ ] Order and test prototypes
@@ -40,9 +40,9 @@ These are some of the planned features for the BlazeBus Toolheadboard:\
 ## Schematic
 Preview of the schematic pages, more details can be viewed in the [PDF version](Schematic/BlazeBus_Schematic.PDF).\ 
 Page 3 will be used parts that are not directly assembled to the PCB e.g. plugs and crimps.
-![Preview image of schematic page 1. Also available as PDF in subfolder.](https://github.com/T3ARlab5/BlazeBus/blob/main/Media/BlazeBus_Schematic-1-V1-1.jpg)
-![Preview image of schematic page 2. Also available as PDF in subfolder.](https://github.com/T3ARlab5/BlazeBus/blob/main/Media/BlazeBus_Schematic-2-V1-1.jpg)
-![Preview image of schematic page 3. Also available as PDF in subfolder.](https://github.com/T3ARlab5/BlazeBus/blob/main/Media/BlazeBus_Schematic-3-V1-1.jpg)
+![Preview image of schematic page 1. Also available as PDF in subfolder.](https://github.com/T3ARlab5/BlazeBus/blob/main/Media/BlazeBus_Schematic-1.jpg)
+![Preview image of schematic page 2. Also available as PDF in subfolder.](https://github.com/T3ARlab5/BlazeBus/blob/main/Media/BlazeBus_Schematic-2.jpg)
+![Preview image of schematic page 3. Also available as PDF in subfolder.](https://github.com/T3ARlab5/BlazeBus/blob/main/Media/BlazeBus_Schematic-3.jpg)
 
 ## Layout
 TBD
@@ -59,6 +59,7 @@ BlazeBus is an open source project and has absolutely no warranty, or guarantees
 ## Changelog
 | Revision | Release Date | Description  |
 | ------------- | ------------- | ------------- |
+| V1-2  | Sep 30, 2026 | Change to TMC2262/5262, move project to KiCAD |
 | V1-1  | Feb 08, 2025 | Change to TMC2240 and support of two USB connections |
 | V1-0  | Mar 20, 2025 | Initial version |
 
